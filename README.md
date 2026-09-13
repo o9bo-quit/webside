@@ -1,6 +1,1 @@
-nothing here so far
-<<<<<<< HEAD
-
-
-=======
->>>>>>> 4e65910 (fixxes)
+A webside for my socails gone improve it soon
